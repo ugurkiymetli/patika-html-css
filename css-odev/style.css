@@ -1,0 +1,53 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+* {
+  color: #3f3f3f;
+}
+*:hover {
+  color: #000;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+nav ul li {
+  padding: 5px;
+  border: 3px solid #8a9a5b;
+}
+nav ul li:hover {
+  font-weight: bolder;
+  border: 3px solid #707e49;
+}
+nav ul a {
+  text-decoration: none;
+}
+.helloWorld {
+  font-size: 72px;
+  text-align: center;
+}
+.me h1 {
+  font-size: 48px;
+  text-align: center;
+}
+.me p {
+  font-size: 24px;
+  text-align: center;
+}
+.content h2 {
+  font-size: 48px;
+  text-align: center;
+}
+
+.content ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.content ul li {
+}
+.content ul li span {
+}
